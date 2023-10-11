@@ -1,0 +1,15 @@
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.exe
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.deps.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.runtimeconfig.json
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\bin\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.AssemblyReference.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfoInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.AssemblyInfo.cs
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\refint\CollectionsPractice.dll
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.pdb
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\CollectionsPractice.genruntimeconfig.cache
+C:\Users\Dalton\Desktop\Bootcamp SONDA - Coding Dojo\Semana 6\Dia 2\CollectionsPractice\obj\Debug\net6.0\ref\CollectionsPractice.dll
